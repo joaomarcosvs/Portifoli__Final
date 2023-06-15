@@ -218,6 +218,7 @@ body {
         flex-direction: row;
         padding: 0%;
         justify-content: center;
+        gap: 10px;
     }
 
     .apresentacao {
